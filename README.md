@@ -98,7 +98,7 @@ Sempre com total disposição para aprender novas tecnologias 😊
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dev-caiocaetano&show_icons=true&theme=blue-greenl&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=dev-caiocaetano&show_icons=true&theme=blue-green&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
