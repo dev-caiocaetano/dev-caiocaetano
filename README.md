@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Caio Caetano 👋
 
-Sou um **`Desenvolvedor FullStack`**, com ênfase em backend e conhecimento em node.js, python, javascript, html e css.
+Sou um **`Desenvolvedor FullStack`**, com ênfase em backend.
 
 Sempre com total disposição para aprender novas tecnologias 😊
-
 
 - 📍 São Paulo - Brasil
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
@@ -34,7 +33,7 @@ Sempre com total disposição para aprender novas tecnologias 😊
 
 </p>
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -88,7 +87,7 @@ Sempre com total disposição para aprender novas tecnologias 😊
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -106,6 +105,8 @@ Sempre com total disposição para aprender novas tecnologias 😊
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-caiocaetano&theme=blue-green&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+
 
 
 
