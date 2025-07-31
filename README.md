@@ -2,7 +2,7 @@
 
 Sou um **`Desenvolvedor FullStack`**, com ênfase em backend e conhecimento em node.js, python, javascript, html e css.
 
-Sempre com total disposição para aprender novas técnologias 😊
+Sempre com total disposição para aprender novas tecnologias 😊
 
 
 - 📍 São Paulo - Brasil
