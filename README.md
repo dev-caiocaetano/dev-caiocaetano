@@ -34,8 +34,6 @@ Sempre com total disposição para aprender novas tecnologias 😊
 
 </p>
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
