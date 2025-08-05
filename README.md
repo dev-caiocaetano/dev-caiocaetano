@@ -72,6 +72,10 @@ Sempre com total disposição para aprender novas tecnologias 😊
 <br/>
 <br/>
 
+## 🚀 Quer testar meus projetos?
+
+- [Taskify](https://dev-caiocaetano.github.io/tasfiky/) - Gerenciador de tarefas simples e eficiente
+
 ## 📊 Estatísticas
 
 <p>
