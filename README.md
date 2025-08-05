@@ -74,10 +74,15 @@ Sempre com total disposição para aprender novas tecnologias 😊
 
 ## 🚀 Quer testar meus projetos?
 
+<details>
+    <summary>Veja todos os projetos</summary>
+    
 - [Taskify](https://dev-caiocaetano.github.io/tasfiky/) - Gerenciador de tarefas simples e eficiente
 - [Word Counter](https://dev-caiocaetano.github.io/word-counter/) - Contador de palavras e caracteres
 - [Calculadora IMC](https://dev-caiocaetano.github.io/calculadora-imc/) - Calculadora de índice de massa corporal
 - [Calculando](https://dev-caiocaetano.github.io/calculadora-calculando/) - Calculadora básica
+  
+</details>
 
 ## 📊 Estatísticas
 
