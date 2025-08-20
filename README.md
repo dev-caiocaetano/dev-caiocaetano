@@ -79,6 +79,7 @@ Sempre com total disposição para aprender novas tecnologias 😊
     
 - [Verb Tenses](https://dev-caiocaetano.github.io/verb-tenses/) - Quiz de tempos verbais da língua inglesa    
 - [Taskify](https://dev-caiocaetano.github.io/tasfiky/) - Gerenciador de tarefas simples e eficiente
+- [Chronos](https://dev-caiocaetano.github.io/chronos/) - Cronômetro
 - [Word Counter](https://dev-caiocaetano.github.io/word-counter/) - Contador de palavras e caracteres
 - [Calculadora IMC](https://dev-caiocaetano.github.io/calculadora-imc/) - Calculadora de índice de massa corporal
 - [Calculando](https://dev-caiocaetano.github.io/calculadora-calculando/) - Calculadora básica
