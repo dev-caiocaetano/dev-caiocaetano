@@ -6,7 +6,7 @@ Sempre com total disposição para aprender novas tecnologias 😊
 
 - 📍 São Paulo - Brasil
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 🛠️ Node.js, Python, JavaScript, HTML, CSS
+- 🛠️ Node.js, Python, React, JavaScript, HTML, CSS
 
 <p align="left">
     <a href="https://www.linkedin.com/in/caiohenriquecaetano/">
@@ -35,6 +35,14 @@ Sempre com total disposição para aprender novas tecnologias 😊
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
