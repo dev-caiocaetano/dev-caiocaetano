@@ -80,13 +80,13 @@ Sempre com total disposição para aprender novas tecnologias 😊
 <br/>
 <br/>
 
-## 🚀 Quer testar meus projetos?
+## 🚀 Veja meus projetos
 
 <details>
     <summary>Veja todos os projetos</summary>
-    
-- [Verb Tenses](https://dev-caiocaetano.github.io/verb-tenses/) - Quiz de tempos verbais da língua inglesa    
-- [Taskify](https://dev-caiocaetano.github.io/tasfiky/) - Gerenciador de tarefas simples e eficiente
+
+- [Taskify](https://github.com/dev-caiocaetano/taskify-fullstack) - Gerenciador de tarefas simples e eficiente  
+- [Verb Tenses](https://dev-caiocaetano.github.io/verb-tenses/) - Quiz de tempos verbais da língua inglesa
 - [Chronos](https://dev-caiocaetano.github.io/chronos/) - Cronômetro
 - [Word Counter](https://dev-caiocaetano.github.io/word-counter/) - Contador de palavras e caracteres
 - [Calculadora IMC](https://dev-caiocaetano.github.io/calculadora-imc/) - Calculadora de índice de massa corporal
