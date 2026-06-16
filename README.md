@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Caio Caetano 👋
 
-Sou um **`Desenvolvedor FullStack`**, com ênfase em backend.
+Sou um **`Desenvolvedor Salesforce`**.
 
 Sempre com total disposição para aprender novas tecnologias 😊
 
 - 📍 São Paulo - Brasil
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 🛠️ Node.js, Python, React, JavaScript, HTML, CSS
+- 🛠️ Salesforce, SQL, JavaScript, C#, React, HTML, CSS, Python
 
 <p align="left">
     <a href="https://www.linkedin.com/in/caiohenriquecaetano/">
